@@ -165,7 +165,6 @@ export default {
 };
 </script>
 <style lang="less" scope>
-@import url("~assets/less/_mixins.less");
 //獨立出來一個組件啊大佬們
 .ABPRC-Unit {
   position: relative;
